@@ -1,0 +1,13 @@
+* _{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior:smooth ;
+}
+body{
+    background: #08111f;
+    color: #edf4ff;
+    font-size: Arial;
+}
